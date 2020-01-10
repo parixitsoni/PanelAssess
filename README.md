@@ -5,7 +5,7 @@ This is feedback system for student &amp; teacher
 
 ## Installation
 
-Use the package manager [npm](https://docs.npmjs.com/cli/install)
+Use the [npm](https://docs.npmjs.com/cli/install) package manager 
 
 ```bash
 npm install
