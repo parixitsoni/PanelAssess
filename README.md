@@ -1,7 +1,7 @@
 # PanelAssess
 This is feedback system for student &amp; teacher
 
-(https://github.com/parixitsoni/PanelAssess/blob/master/src/component/Logo/custom1.png)
+![alt text](https://github.com/parixitsoni/PanelAssess/blob/master/src/component/Logo/custom1.png)
 
 ## Installation
 
