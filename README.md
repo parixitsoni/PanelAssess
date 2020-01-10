@@ -1,27 +1,64 @@
 # PanelAssess
-This is feedback system for student &amp; teacher
-[![Contributors][contributors-shield]][https://github.com/parixitsoni/PanelAssess/graphs/contributors]
-[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/parixitsoni]
-
-
 ![alt text](https://github.com/parixitsoni/PanelAssess/blob/master/src/component/Logo/custom1.png)
 
-## Installation
+## Table of Contents
 
-Use the [npm](https://docs.npmjs.com/cli/install) package manager 
+* [About the Project](#about-the-project)
+  * [Built With](#built-with)
+* [Getting Started](#getting-started)
+  * [Prerequisites](#prerequisites)
+  * [Installation](#installation)
+  * [Installation](#Database Installation)
+* [Usage](#usage)
+* [Contact](#contact)
 
-```bash
+## About The Project
+
+[![Product Name Screen Shot][product-screenshot]](https://github.com/parixitsoni/PanelAssess/blob/master/src/component/Logo/Picture1.png)
+PanelAssess is a tool that was created to allow Instructors to receive formative feedback from students throughout the semester.
+PanelAssess is so named because it solicits feedback regarding an students behavior from a variety of points of view (subordinate, lateral, and supervisory). Organizations have most commonly utilized feedback for developmental purposes, providing it to students to assist them in developing work skills and behaviors. However, organizations are increasingly using feedback in performance evaluations and employment decisions for example: Pay, promotions. When feedback is used for performance evaluation purposes, it is sometimes called a "360-degree review".
+
+
+### Built With
+* [React](https://reactjs.org/)
+* [php](https://www.php.net/)
+
+
+
+## Getting Started
+
+### Prerequisites
+* npm
+```sh
+npm install npm@latest -g
+```
+
+### Installation
+
+1. Clone the repo
+```sh
+git clone https://github.com/your_username_/Project-Name.git
+```
+2. Install NPM packages
+```sh
 npm install
 ```
-```bash
+3. Start npm 
+```sh
 npm start
 ```
 
-## Usage
+### Database Installation
 
 ```
 To run this app you have to follow these steps
 1. Import panelassess.sql file into your database which is inside src/Database/backend. then
 2. Copy react-php folder which is inside src/Database/php/react-php/api and past it in your xammp/htdocs directory.
 ```
+
+## Contact
+
+parikshitsoni85@gmail.com
+
+Project Link: [https://github.com](https://github.com/parixitsoni/PanelAssess.git)
 
