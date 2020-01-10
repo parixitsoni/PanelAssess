@@ -9,7 +9,7 @@
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
   * [Installation](#Database Installation)
-* [Usage](#usage)
+* [Usage](#Screensorts)
 * [Contact](#contact)
 
 ## About The Project
@@ -55,6 +55,12 @@ To run this app you have to follow these steps
 1. Import panelassess.sql file into your database which is inside src/Database/backend. then
 2. Copy react-php folder which is inside src/Database/php/react-php/api and past it in your xammp/htdocs directory.
 ```
+## Screensorts
+![panelassess-screenshot](https://github.com/parixitsoni/PanelAssess/blob/master/src/component/Logo/Picture2.png)
+![panelassess-screenshot](https://github.com/parixitsoni/PanelAssess/blob/master/src/component/Logo/Picture3.png)
+![panelassess-screenshot](https://github.com/parixitsoni/PanelAssess/blob/master/src/component/Logo/Picture4.png)
+![panelassess-screenshot](https://github.com/parixitsoni/PanelAssess/blob/master/src/component/Logo/Picture5.png)
+![panelassess-screenshot](https://github.com/parixitsoni/PanelAssess/blob/master/src/component/Logo/Picture6.png)
 
 ## Contact
 
