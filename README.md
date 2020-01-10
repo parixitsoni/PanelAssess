@@ -8,7 +8,7 @@
 * [Getting Started](#getting-started)
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
-  * [Installation](#Database Installation)
+  * [Database Installation](#installation)
 * [Usage](#Screensorts)
 * [Contact](#contact)
 
