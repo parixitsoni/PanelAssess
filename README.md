@@ -11,6 +11,7 @@
   * [Database Installation](#installation)
 * [Usage](#Screensorts)
 * [Contact](#contact)
+* [Acknowledgements](#Acknowledgements)
 
 ## About The Project
 
@@ -67,4 +68,11 @@ To run this app you have to follow these steps
 parikshitsoni85@gmail.com
 
 Project Link: [https://github.com](https://github.com/parixitsoni/PanelAssess.git)
+
+
+## Acknowledgements
+* [Nodejs](https://nodejs.org/en/)
+* [Chartjs](https://www.chartjs.org/)
+* [Font Awesome](https://fontawesome.com)
+* [Bootstrap](https://getbootstrap.com/)
 
