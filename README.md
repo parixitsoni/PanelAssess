@@ -16,10 +16,9 @@ npm start
 
 ## Usage
 
-```python
-To run this app you have to import panelassess.sql file 
-which is inside (src/Database/backend/) after this 
-copy react-php folder which is
-inside (src/Database/php/react-php/api) and past it in your xammp/htdocs directory
+```
+To run this app you have to follow these steps
+1. Import panelassess.sql file into your database which is inside src/Database/backend. then
+2. Copy react-php folder which is inside src/Database/php/react-php/api and past it in your xammp/htdocs directory.
 ```
 
