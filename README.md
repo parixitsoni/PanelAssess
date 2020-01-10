@@ -14,7 +14,7 @@
 
 ## About The Project
 
-[panelassess-screenshot]](https://github.com/parixitsoni/PanelAssess/blob/master/src/component/Logo/Picture1.png)
+![panelassess-screenshot]](https://github.com/parixitsoni/PanelAssess/blob/master/src/component/Logo/Picture1.png)
 PanelAssess is a tool that was created to allow Instructors to receive formative feedback from students throughout the semester.
 PanelAssess is so named because it solicits feedback regarding an students behavior from a variety of points of view (subordinate, lateral, and supervisory). Organizations have most commonly utilized feedback for developmental purposes, providing it to students to assist them in developing work skills and behaviors. However, organizations are increasingly using feedback in performance evaluations and employment decisions for example: Pay, promotions. When feedback is used for performance evaluation purposes, it is sometimes called a "360-degree review".
 
