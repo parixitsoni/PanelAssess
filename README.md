@@ -1,5 +1,8 @@
 # PanelAssess
 This is feedback system for student &amp; teacher
+[![Contributors][contributors-shield]][https://github.com/parixitsoni/PanelAssess/graphs/contributors]
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/parixitsoni]
+
 
 ![alt text](https://github.com/parixitsoni/PanelAssess/blob/master/src/component/Logo/custom1.png)
 
