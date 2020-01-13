@@ -65,7 +65,7 @@ To run this app you have to follow these steps
 
 ## Contact
 
-parikshitsoni85@gmail.com
+contact@parixitsoni.com
 
 Project Link: [https://github.com](https://github.com/parixitsoni/PanelAssess.git)
 
